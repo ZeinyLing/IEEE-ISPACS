@@ -5,4 +5,4 @@ In Taiwan, breast cancer ranks as the fourth leading cause of death among women.
 
 <b>Keywords: Breast Cancer Screening, Mammogram Imaging, Class Imbalance, Deep Learning</b>
 
-[IEEE-ISPACS (IEEE Xplore)](https://ieeexplore.ieee.org/abstract/document/10868132/metrics#metrics)
+[IEEE-ISPACS (IEEE Xplore)](https://ieeexplore.ieee.org/abstract/document/10868132/)
